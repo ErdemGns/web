@@ -14,4 +14,4 @@
     - Uydulara ait verilerden özel bir kısım,
     - Uluslararası kargo takip sistemi,
     - Arsa tahmini değer öğrenme, 
-    - Nereye en iyi şekilde iş yeri kurabilirim ve ne tarz işler yapılabilir orada, 
+    - Nereye iş yeri kurabilirim ve ne tarz işler yapılabilir orada, 
