@@ -17,4 +17,5 @@
     - Elektrik, su, doğalgaz, internet, kanalizasyon gibi alt yapı sistem haritaları, 
     - Arsa tahmini değer öğrenme, 
     - Nereye iş yeri kurabilirim ve ne tarz işler yapılabilir orada,
-    - Tarla kullanım verileri kıyaslaması yaparak tarlaya en uygun bitki dikimi, 
+    - Tarla kullanım verileri kıyaslaması yaparak tarlaya en uygun bitki dikimi,
+    - Yeraltı su verisi haritası, 
