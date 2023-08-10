@@ -18,4 +18,5 @@
     - Arsa tahmini değer öğrenme, 
     - Nereye iş yeri kurabilirim ve ne tarz işler yapılabilir orada,
     - Tarla kullanım verileri kıyaslaması yaparak tarlaya en uygun bitki dikimi,
-    - Yeraltı su verisi tahmini haritası, 
+    - Yeraltı su verisi tahmini haritası,
+    - Anket, 
