@@ -4,7 +4,7 @@
 ## YAPILACAKLAR
 
 - Ana giriş sayfası ve detaylı bir şirket bilgi kısmı;
-- Şirket domain uzantılı mail, 
+- Şirket alan adı uzantılı mail, 
 
   - Kısım detayları; 
 
