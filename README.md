@@ -7,7 +7,9 @@
 
   - Alt konu detayları; 
 
-    - Açık veriden yolcu uçakları bilgi sistemi, 
-    - Açık veriden kargo gemilerinin konum verisi ve ek detaylar, 
+    - Açık veriden yolcu uçakları bilgi sistemi,
+    - Açık veriden kargo uçakları bilgi sistemi,
+    - Açık veriden yolcu gemisi bilgi sistemi, 
+    - Açık veriden kargo gemisi bilgi sistemi, 
     - Uydulara ait verilerden özel bir kısım oluşturulacak,
     - Uluslararası kargo takip sistemi, 
