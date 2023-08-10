@@ -5,7 +5,7 @@
 
 - Ana giriş sayfası ve detaylı bir şirket bilgi kısmı;
 
-  - Alt konu detayları; 
+  - Kısım detayları; 
 
     - Açık veriden yolcu uçakları bilgi sistemi,
     - Açık veriden kargo uçakları bilgi sistemi,
