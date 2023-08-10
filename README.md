@@ -4,7 +4,8 @@
 ## YAPILACAKLAR
 
 - Ana giriş sayfası ve detaylı bir şirket bilgi kısmı;
-  - a
+
+  - Alt konu detayları; 
 
     - Açık veriden yolcu uçakları bilgi sistemi, 
     - Açık veriden kargo gemilerinin konum verisi ve ek detaylar, 
