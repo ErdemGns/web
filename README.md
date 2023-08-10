@@ -13,5 +13,6 @@
     - Açık veriden kargo gemisi bilgi sistemi, 
     - Uydulara ait verilerden özel bir kısım,
     - Uluslararası kargo takip sistemi,
+    - Elektrik, su, doğalgaz, internet, kanalizasyon gibi alt yapı sistem haritaları, 
     - Arsa tahmini değer öğrenme, 
     - Nereye iş yeri kurabilirim ve ne tarz işler yapılabilir orada, 
