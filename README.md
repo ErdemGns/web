@@ -8,10 +8,10 @@
 
   - Kısım detayları; 
 
-    - Açık veriden yolcu uçakları bilgi sistemi,
-    - Açık veriden kargo uçakları bilgi sistemi,
-    - Açık veriden yolcu gemisi bilgi sistemi, 
-    - Açık veriden kargo gemisi bilgi sistemi, 
+    - Yolcu uçakları bilgi sistemi,
+    - Kargo uçakları bilgi sistemi,
+    - Yolcu gemisi bilgi sistemi, 
+    - Kargo gemisi bilgi sistemi, 
     - Uydulara ait verilerden özel bir kısım,
     - Uluslararası kargo takip sistemi,
     - Elektrik, su, doğalgaz, internet, kanalizasyon gibi alt yapı sistem haritaları, 
