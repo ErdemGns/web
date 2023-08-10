@@ -4,8 +4,7 @@
 ## YAPILACAKLAR
 
 - Ana giriş sayfası ve detaylı bir şirket bilgi kısmı;
-- E-mail kısmı,
-- 
+- E-mail kısmı, 
 
   - Kısım detayları; 
 
