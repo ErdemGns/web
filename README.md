@@ -7,7 +7,7 @@
   - Detaylı bir şirket bilgi kısmı, 
   - Şirket alan adı uzantılı mail, 
 
-  - Kısım detayları; 
+  - Üzerinde çalıştığımız konular; 
 
     - Yolcu uçakları bilgi sistemi,
     - Kargo uçakları bilgi sistemi,
